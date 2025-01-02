@@ -1,0 +1,14 @@
+D:\baitap\RSAEncryptionApp\obj\Debug\net9.0-windows\RSAEncryptionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\baitap\RSAEncryptionApp\obj\Debug\net9.0-windows\RSAEncryptionApp.AssemblyInfoInputs.cache
+D:\baitap\RSAEncryptionApp\obj\Debug\net9.0-windows\RSAEncryptionApp.AssemblyInfo.cs
+D:\baitap\RSAEncryptionApp\obj\Debug\net9.0-windows\RSAEncryptionApp.csproj.CoreCompileInputs.cache
+D:\baitap\RSAEncryptionApp\bin\Debug\net9.0-windows\RSAEncryptionApp.exe
+D:\baitap\RSAEncryptionApp\bin\Debug\net9.0-windows\RSAEncryptionApp.deps.json
+D:\baitap\RSAEncryptionApp\bin\Debug\net9.0-windows\RSAEncryptionApp.runtimeconfig.json
+D:\baitap\RSAEncryptionApp\bin\Debug\net9.0-windows\RSAEncryptionApp.dll
+D:\baitap\RSAEncryptionApp\bin\Debug\net9.0-windows\RSAEncryptionApp.pdb
+D:\baitap\RSAEncryptionApp\obj\Debug\net9.0-windows\RSAEncryptionApp.dll
+D:\baitap\RSAEncryptionApp\obj\Debug\net9.0-windows\refint\RSAEncryptionApp.dll
+D:\baitap\RSAEncryptionApp\obj\Debug\net9.0-windows\RSAEncryptionApp.pdb
+D:\baitap\RSAEncryptionApp\obj\Debug\net9.0-windows\RSAEncryptionApp.genruntimeconfig.cache
+D:\baitap\RSAEncryptionApp\obj\Debug\net9.0-windows\ref\RSAEncryptionApp.dll
