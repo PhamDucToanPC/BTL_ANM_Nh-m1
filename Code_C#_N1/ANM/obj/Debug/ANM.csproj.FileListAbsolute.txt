@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual Studio 2022\ANM\ANM\obj\Debug\ANM.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2022\ANM\ANM\obj\Debug\ANM.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2022\ANM\ANM\obj\Debug\ANM.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2022\ANM\ANM\obj\Debug\ANM.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Visual Studio 2022\ANM\ANM\obj\Debug\ANM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2022\ANM\ANM\bin\Debug\ANM.exe.config
+C:\Users\Admin\Documents\Visual Studio 2022\ANM\ANM\bin\Debug\ANM.exe
+C:\Users\Admin\Documents\Visual Studio 2022\ANM\ANM\bin\Debug\ANM.pdb
+C:\Users\Admin\Documents\Visual Studio 2022\ANM\ANM\obj\Debug\ANM.exe
+C:\Users\Admin\Documents\Visual Studio 2022\ANM\ANM\obj\Debug\ANM.pdb
